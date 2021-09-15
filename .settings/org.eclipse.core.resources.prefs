@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/me/men8/infestation/effects/Neutralizer.java=UTF-8
+encoding//src/me/men8/infestation/effects/WaterDrink.java=UTF-8
+encoding//src/me/men8/infestation/exp/ExpGain.java=UTF-8
+encoding//src/me/men8/infestation/exp/ExpUpdate.java=UTF-8
+encoding//src/me/men8/infestation/misc/CustomItem.java=UTF-8
+encoding//src/me/men8/infestation/money/MoneyUpdate.java=UTF-8
+encoding//src/me/men8/infestation/scoreboard/CreateScoreboard.java=UTF-8
+encoding//src/me/men8/infestation/survivalModules/Temperature.java=UTF-8
+encoding//src/me/men8/infestation/survivalModules/Thirst.java=UTF-8

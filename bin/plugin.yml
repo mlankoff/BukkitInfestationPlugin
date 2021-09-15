@@ -1,0 +1,11 @@
+name: Infestation
+version: 2.0
+main: me.men8.infestation.main.Main
+author: men8
+softdepend: [Vault]
+commands:
+     infestation:
+          description: List of commands
+          aliases: g
+          usage: /<command>
+          permission:
